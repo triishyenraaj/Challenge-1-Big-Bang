@@ -45,7 +45,7 @@ cd Challenge-1-Big-Bang
 ### Expected Output Format
 The JSON file contains:
 ```json
-["1","2","BIG","4","BANG","BIG","7","8","BIG","BANG","11","BIG","13","14","BIGBANG",.... all the way to 100]
+["1","2","BIG","4","BANG","BIG","7","8","BIG","BANG","11","BIG","13","14","BIGBANG",...,"100"]
 ```
 
 ## Repository Structure
