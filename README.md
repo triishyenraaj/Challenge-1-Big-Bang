@@ -17,8 +17,8 @@ Follow these steps to run the script:
 ### 1. Clone the Repository
 For both Windows (Git Bash, Command Prompt, or PowerShell) and Mac/Linux (Terminal):
 ```sh
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/triishyenraaj/Challenge-1-Big-Bang.git
+cd Challenge-1-Big-Bang
 ```
 
 ### 2. Run the Script
